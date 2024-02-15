@@ -1,0 +1,27 @@
+html{
+  scroll-behavior: smooth  scrollbars;
+}
+h1{
+  text-align: center;
+}
+ div>p{
+  background-color: darkgrey;
+  text-align: center;
+}
+.chicken{
+  background-color: darkgray;
+}
+.beef{
+  background-color: darkgrey;
+}
+.sushi{
+  background-color: darkgrey;
+}
+.row-1,h1.Food{
+  background-color: darkgrey;
+}
+
+h1.Food{
+  text-align: left;
+  margin-left: 40px;
+}
